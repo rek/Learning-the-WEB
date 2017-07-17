@@ -3,7 +3,7 @@ A course outline
 
 ## Track One
 
- - https://www.codeschool.com/courses/front-end-foundations COMPLETE: no
+ - https://www.codeschool.com/courses/front-end-foundations COMPLETE: yes
  - Figure out how to make a pull request, and send me one, marking the above course as complete.
  - https://www.codeschool.com/courses/javascript-road-trip-part-1 COMPLETE: no
 
