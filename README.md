@@ -3,7 +3,7 @@ A course outline
 
 ## Track One
 
- - https://www.codeschool.com/courses/front-end-foundations COMPLETE: yes
+ - https://www.codeschool.com/courses/front-end-foundations COMPLETE: not exactly
  - Figure out how to make a pull request, and send me one, marking the above course as complete.
  - https://www.codeschool.com/courses/javascript-road-trip-part-1 COMPLETE: no
 
@@ -22,7 +22,7 @@ A course outline
  
  ## Track three
  
- Sign up for: https://www.freecodecamp.com
+ Sign up for: https://www.freecodecamp.com # This one's partially complete, though. :)
  
  Start and work through the **Front-End-Development-Certification**
  
